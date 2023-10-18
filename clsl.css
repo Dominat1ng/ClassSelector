@@ -1,0 +1,25 @@
+header {
+  background-color: black;
+  opacity: 0.8;
+  width: 100%;
+}
+h1 {
+  color: white;
+  padding: 30px;
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li {
+ line-height: 2;
+}
+.bd {
+  padding: 25px;
+  box-shadow: 0 0 10px grey;
+  margin-left: 100px;
+  margin-right: 100px;
+}
